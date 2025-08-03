@@ -21,13 +21,4 @@ This portfolio was created as part of my learning experience at **PLP Academy (J
 ## 🛠️ Built With
 
 - HTML5
-- CSS3
-
-## 📄 Installation (Optional)
-
-If you'd like to view the portfolio locally:
-
-```bash
-git clone https://github.com/gkiprutongeno/portfolio.git
-cd portfolio
-open index.html
+- CSS
